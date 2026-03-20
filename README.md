@@ -1,4 +1,18 @@
-## Hi there 👋
+---
+Olá pessoa amável da internet !
+---
+
+  <span> Sistemas Operacionais: </span>
+</h3>
+<br>
+
+<p align="center" style="gap: 10px; margin-top: 3em">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="70px"/>
+    &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70px" />
+          
+</p>
+
 
 <!--
 **beatrizterashita-code/beatrizterashita-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
