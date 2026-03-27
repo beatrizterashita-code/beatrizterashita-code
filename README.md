@@ -13,6 +13,11 @@ Olá pessoa amável da internet !
           
 </p>
 
+<!-- languages ​​from above -->
+  <span> Linguagens de programação: </span>
+<p align="center" style="gap: 10px; margin-top: 3em">
+  <img src="5848152fcef1014c0b5e4967.png" alt="Ícone python">
+</p>
 
 <!--
 **beatrizterashita-code/beatrizterashita-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
