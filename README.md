@@ -2,7 +2,7 @@
 Olá pessoa amável da internet !
 ---
 
-  <span> Sistemas Operacionais: </span>
+  <span> Operating systems: </span>
 </h3>
 <br>
 
@@ -10,13 +10,15 @@ Olá pessoa amável da internet !
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="70px"/>
     &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="70px" />
-          
+      
 </p>
 
+
 <!-- languages ​​from above -->
-  <span> Linguagens de programação: </span>
+  <span> Learning these languages: </span>
 <p align="center" style="gap: 10px; margin-top: 3em">
-  <img src="5848152fcef1014c0b5e4967.png" alt="Ícone python">
+  <img src="5848152fcef1014c0b5e4967.png" alt="Ícone python" width="70px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70"/>
 </p>
 
 <!--
