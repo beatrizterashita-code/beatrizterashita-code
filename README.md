@@ -1,5 +1,5 @@
 ---
-Olá pessoa amável da internet ! :)
+Hello person ! :)
 ---
 
   <span> Operating systems: </span>
